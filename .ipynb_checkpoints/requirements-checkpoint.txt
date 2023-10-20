@@ -1,0 +1,5 @@
+mlxtend
+scikit-learn
+hmmlearn
+statsmodels
+scipy
